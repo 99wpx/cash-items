@@ -92,21 +92,3 @@ Add the following entry for the cash item in `qb-core/shared/items.lua`:
 }
 ```
 
-Ensure you place the image `cash.png` in your inventory images folder.
-
----
-
-## Notes
-- This modification ensures that money is treated as an item that players can carry in their inventory.
-- Test the changes thoroughly to avoid conflicts with other scripts.
-
----
-
-### License
-This modification is shared under the MIT License. Feel free to use and adapt it for your server.
-
----
-
-### Support
-For any issues or questions, create a GitHub issue or contact the repository maintainer.
-
